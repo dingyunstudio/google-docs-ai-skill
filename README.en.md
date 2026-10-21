@@ -56,6 +56,12 @@ Keeping the original link, creating a new file, or changing the formal version f
 
 ## How to use it
 
+### Requirements (ChatGPT Chat)
+
+- **ChatGPT Plus**: the baseline plan for this project's ChatGPT Chat workflow. Available capabilities still depend on the account and connected tools.
+- **Connected Google Drive/Docs tools and document editing permission**: required to read, edit, and read back the document.
+- **A connected GitHub tool and repository read access**: required when loading this Skill from GitHub. For a private repository, confirm that the connected account has access.
+
 ### Initial load
 
 Ask the AI to read this package from GitHub, or provide this folder in an environment that supports local Skills, starting with [SKILL.md](SKILL.md).

@@ -54,6 +54,12 @@
 
 ## 使用方式
 
+### 產品需求（ChatGPT Chat）
+
+- **ChatGPT Plus**：本專案的 ChatGPT Chat 使用基準；實際可用功能仍依帳號與連接工具而定。
+- **Google Drive／Docs 連接工具與文件編輯權限**：實際讀取、修改及回讀文件所需。
+- **GitHub 連接工具與 repository 讀取權限**：從 GitHub 載入本 Skill 時需要；私人 repository 須另外確認連接帳號有權限。
+
 ### 第一次載入
 
 使用者可以從 GitHub 讀取本套件，或在支援本機 Skill 的環境提供本資料夾，請 AI 先讀 [SKILL.md](SKILL.md)。
