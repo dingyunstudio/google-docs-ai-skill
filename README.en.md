@@ -2,6 +2,8 @@
 
 [繁體中文](README.md) | [English](README.en.md)
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dingyunstudio)
+
 **This Skill provides guidance for AI agents operating on Google Docs.** It is based on methods used in practice by 定沄整合設計工作室 and is intended for AI to read and follow.
 
 This Google Docs editing workflow can be used in ChatGPT chat environments with the required connected tools.
@@ -134,3 +136,9 @@ This public edition is adapted from 定沄整合設計工作室's SOP01. It does
 This project is source-available and free for noncommercial use under its license; it is not licensed as OSI-defined open source. For commercial permission, see [COMMERCIAL.md](COMMERCIAL.md) and contact [dingyun.studio@gmail.com](mailto:dingyun.studio@gmail.com).
 
 Questions and improvement suggestions are welcome. Licensing and commercial sublicensing arrangements must be clarified before incorporating substantive third-party contributions.
+
+## ☕ Support this project
+
+If this Skill helps you, consider [buying me a coffee](https://ko-fi.com/dingyunstudio) to support ongoing maintenance.
+
+Support is voluntary and does not include commercial permission. For commercial use, see [COMMERCIAL.md](COMMERCIAL.md) and contact the studio separately.

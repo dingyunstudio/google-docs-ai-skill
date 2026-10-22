@@ -2,6 +2,8 @@
 
 [繁體中文](README.md) | [English](README.en.md)
 
+[![請我喝杯咖啡](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dingyunstudio)
+
 **這是一套輔助 AI 操作 Google Docs 的 Skill**，由定沄整合設計工作室依實際應用的方法整理，供 AI 讀取並依循。
 
 這套 Google Docs editing workflow 可在具備相應工具的 ChatGPT Chat 環境中使用。
@@ -131,3 +133,9 @@
 本專案定位為原始碼公開／非商用免費，非 OSI 定義的開源授權。需要商用許可請見 [COMMERCIAL.md](COMMERCIAL.md)，聯絡 [dingyun.studio@gmail.com](mailto:dingyun.studio@gmail.com)。
 
 目前歡迎提出問題與改進建議。合入第三方實質內容前，需先釐清其授權及商用再授權安排。
+
+## ☕ 贊助支持
+
+如果這套 Skill 對你有幫助，歡迎[請我喝杯咖啡](https://ko-fi.com/dingyunstudio)，支持後續維護。
+
+贊助為自願支持，不包含商用授權；商用需求請見 [COMMERCIAL.md](COMMERCIAL.md)，另外聯絡工作室。
