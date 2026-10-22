@@ -17,7 +17,7 @@ This Skill does not guarantee that AI will never make errors or will complete ev
 
 > **Version: 0.1.0.**
 >
-> The package contains a Skill, eight chapters of operating rules, and two templates. Full native integration testing, independent review of the complete public package, and formal release are still pending.
+> The package contains a Skill, eight chapters of operating rules, and two templates. This package is publicly available and has undergone selected native-operation tests and independent checks.
 
 This English page covers the README. The Skill, references, and templates retain their existing language.
 
